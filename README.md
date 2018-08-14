@@ -1,1 +1,1 @@
-# Processing ETC blockchain data to clean JSON and CSV
+# Processing ETC blockchain JSON into cleaner JSON and CSV
